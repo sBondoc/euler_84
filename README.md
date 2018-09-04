@@ -18,6 +18,10 @@ Follow these instructions to use this utility on a physical TI-84 or an emulator
 
 * [TI-84 ROM Image](https://www.ticalc.org/programming/emulators/romdump.html) - A ROM image needs to be loaded onto the emulator for it to work
 
+## Installation
+
+Use TI Connect™ to send the `EULER.8xp` file to your calculator. You can also read the code in the `raw.txt` file of the repository and manually write it on your calculator if you're familiar with TI-BASIC.
+
 ## Built With
 
 * [TI-84 Plus](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus) - Calculator used to make the program
