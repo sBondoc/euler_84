@@ -1,6 +1,6 @@
 # euler_84
 
-Simple Euler's method utility for TI-84.
+Simple Euler's method utility for TI-84. Great for doing your B/C homework. ;)
 
 ## Getting Started
 
