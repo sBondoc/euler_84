@@ -11,80 +11,19 @@ Follow these instructions to use this utility on a physical TI-84 or an emulator
 #### Calculator
 
 * [TI Connect™ Software](https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware) - Software for sending the program to the calculator
+
 * [USB Mini B Cable](https://images-na.ssl-images-amazon.com/images/I/71570Bmv81L._SX355_.jpg) - Cable connecting the calculator to the computer
 
 #### jstTIfied Emulator
 
-
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+* [TI-84 ROM Image](https://www.ticalc.org/programming/emulators/romdump.html) - A ROM image needs to be loaded onto the emulator for it to work
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* [TI-84 Plus](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus) - Calculator used to make the program
+* [TI Connect™ Software](https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware) - Used to export the program from the calculator to the computer in .8xp format
+* [Source Coder 3 (Cemetech.net)](https://www.cemetech.net/sc/) - Simplifies debugging process
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* I have no idea what I'm doing
