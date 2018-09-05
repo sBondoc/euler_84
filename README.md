@@ -14,7 +14,7 @@ Follow these instructions to use this utility on a physical TI-84 or an emulator
 
 * [USB Mini B Cable](https://images-na.ssl-images-amazon.com/images/I/71570Bmv81L._SX355_.jpg) - Cable connecting the calculator to the computer
 
-#### jstTIfied Emulator
+#### Emulator
 
 * [TI-84 ROM Image](https://www.ticalc.org/programming/emulators/romdump.html) - A ROM image needs to be loaded onto the emulator for it to work
 
